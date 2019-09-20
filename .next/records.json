@@ -1,0 +1,24 @@
+{
+  "extract-css-chunks-webpack-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/less-loader/dist/cjs.js??ref--5-2!assets/styles.less": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": []
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}
